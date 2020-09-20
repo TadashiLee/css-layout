@@ -23,14 +23,14 @@ header img{
 
 header h1{
     color: white;
-    position: absolute;left: 50%;
+    position: absolute;left: 40%;
 }
 header a{
     color: white;
 }
 
 header nav{
-    position: absolute;right: 10%;top: 50%;
+    position: absolute;right: 5%;top: 50%;
 }
 header li{
     float: left;
